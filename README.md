@@ -1,5 +1,4 @@
-# OSI
-[JAVA.Network, OSI]
+# Model OSI
 
 # Задача "Клиент-серверное приложение"
 
